@@ -1,0 +1,16 @@
+{
+  "name": "fassos-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "cors@2.8.4",
+    "express": "express@4.16.2",
+    "mongoose": "mongoose@5.0.0-rc2",
+    "socket.io": "socket.io@2.0.4"
+  }
+}
